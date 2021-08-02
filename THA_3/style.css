@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    color:rgb(98, 198, 223) ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+legend{
+    text-align: center;
+}
+
+.container{
+    border: 2px solid rgb(98, 198, 223);
+    display: flex;
+}
+.m1{
+    font-size: 30px;
+    font-weight: 700;
+}
+.m2{
+    font-size: 20px;
+    font-weight: 400;
+}
+h3{
+    font-size: 25px;
+}
+h2{
+    font-size:30px;
+}
+div{
+    margin: 10px;
+}
+hr{
+    border-color:rgb(98, 198, 223) ;
+}
